@@ -1,0 +1,8 @@
+# Build outputs
+td_12_lcd_emulator
+*.o
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
